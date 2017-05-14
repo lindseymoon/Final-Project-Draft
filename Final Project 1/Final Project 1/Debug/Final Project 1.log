@@ -1,0 +1,10 @@
+﻿  Team.cpp
+c:\users\lmoon20\desktop\final project 1\final project 1\team.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\lmoon20\desktop\final project 1\final project 1\team.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\lmoon20\desktop\final project 1\final project 1\team.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\lmoon20\desktop\final project 1\final project 1\team.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Main.cpp
+  Generating Code...
+  Final Project 1.vcxproj -> C:\Users\lmoon20\Desktop\Final Project 1\Debug\Final Project 1.exe
+  Final Project 1.vcxproj -> C:\Users\lmoon20\Desktop\Final Project 1\Debug\Final Project 1.pdb (Full PDB)
